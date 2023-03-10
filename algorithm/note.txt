@@ -1,0 +1,18 @@
+Dưới đây là một số giải thuật cơ bản mà lập trình viên backend nên biết:
+
+Giải thuật sắp xếp: Bubble sort, Insertion sort, Selection sort, Quick sort, Merge sort, Heap sort.
+
+Giải thuật tìm kiếm: Linear search, Binary search, Interpolation search.
+
+Giải thuật đồ thị: Duyệt đồ thị theo chiều rộng (BFS), duyệt đồ thị theo chiều sâu (DFS), thuật toán Dijkstra, thuật toán Bellman-Ford, thuật toán Prim, thuật toán Kruskal.
+
+Giải thuật xử lý chuỗi: Thuật toán Rabin-Karp, thuật toán KMP.
+
+Giải thuật đệ quy: Fibonacci, phân hoạch số, tìm kiếm nhị phân đệ quy.
+
+Giải thuật tối ưu hóa: Quy hoạch động, phương pháp nhánh cận, giải thuật vét cạn.
+
+Tuy nhiên, danh sách này chỉ là một phần nhỏ của những giải thuật quan trọng và lập trình viên backend cũng nên tìm hiểu thêm các giải thuật khác để nâng cao kỹ năng lập trình của mình.
+
+
+

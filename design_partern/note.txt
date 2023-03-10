@@ -1,0 +1,15 @@
+Laravel framework được xây dựng dựa trên một số design pattern cốt lõi của PHP như:
+
+MVC (Model-View-Controller): Là một design pattern phổ biến trong lập trình web, cho phép tách biệt các thành phần của ứng dụng, giúp việc phát triển, bảo trì và kiểm thử dễ dàng hơn.
+
+Singleton: Design pattern này giúp đảm bảo rằng một lớp chỉ có một thể hiện duy nhất trong suốt vòng đời của ứng dụng.
+
+Factory: Design pattern này giúp tạo ra đối tượng một cách linh hoạt, dựa trên các thông tin được cung cấp.
+
+Facade: Design pattern này cung cấp một giao diện đơn giản cho một hệ thống phức tạp, giúp giảm thiểu sự phức tạp khi tương tác với hệ thống.
+
+Dependency Injection: Design pattern này giúp giảm sự phụ thuộc giữa các lớp và giúp dễ dàng thay đổi đối tượng được sử dụng mà không cần sửa đổi mã nguồn.
+
+Repository: Design pattern này giúp tách biệt lớp truy cập dữ liệu và các thành phần khác trong ứng dụng, giúp việc quản lý dữ liệu dễ dàng hơn.
+
+Việc hiểu và sử dụng các design pattern trên sẽ giúp bạn hiểu và sử dụng Laravel framework hiệu quả hơn.

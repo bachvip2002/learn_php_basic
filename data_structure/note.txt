@@ -1,0 +1,19 @@
+Dưới đây là một số cấu trúc dữ liệu mà lập trình viên backend cần biết:
+
+Mảng (Array): Là một tập hợp các giá trị cùng kiểu dữ liệu được lưu trữ trong bộ nhớ liên tiếp.
+
+Danh sách liên kết (Linked List): Là một tập hợp các nút được liên kết với nhau bằng cách sử dụng các con trỏ.
+
+Ngăn xếp (Stack): Là một cấu trúc dữ liệu dạng LIFO (Last In First Out) - phần tử được đưa vào cuối cùng sẽ được lấy ra đầu tiên.
+
+Hàng đợi (Queue): Là một cấu trúc dữ liệu dạng FIFO (First In First Out) - phần tử được đưa vào trước tiên sẽ được lấy ra đầu tiên.
+
+Cây (Tree): Là một cấu trúc dữ liệu phân cấp, có thể được sử dụng để tìm kiếm và sắp xếp dữ liệu.
+
+Đồ thị (Graph): Là một cấu trúc dữ liệu bao gồm các đỉnh và cạnh, được sử dụng để mô hình hóa các mối quan hệ giữa các đối tượng.
+
+Bảng băm (Hash Table): Là một cấu trúc dữ liệu sử dụng để lưu trữ các cặp key-value và cho phép truy cập nhanh đến các giá trị thông qua key.
+
+Các cấu trúc dữ liệu tìm kiếm như tìm kiếm nhị phân, tìm kiếm đường đi ngắn nhất (Dijkstra), tìm kiếm độ sâu (Depth-First Search), tìm kiếm rộng (Breadth-First Search)...
+
+Tất cả những cấu trúc dữ liệu trên đều được sử dụng rộng rãi trong lập trình backend và tùy vào từng trường hợp, lập trình viên có thể sử dụng một hoặc nhiều cấu trúc dữ liệu để xử lý dữ liệu hiệu quả.
